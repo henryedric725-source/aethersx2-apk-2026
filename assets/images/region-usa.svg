@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="PS2 BIOS USA NTSC-U">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1e40af"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect width="640" height="240" fill="url(#g)"/>
+  <text x="32" y="72" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">PS2 BIOS USA</text>
+  <text x="32" y="108" fill="#c7d2fe" font-family="system-ui,sans-serif" font-size="18">NTSC-U · SCPH-70012</text>
+  <text x="32" y="180" fill="#e0e7ff" font-family="system-ui,sans-serif" font-size="14">North American games · 4,194,304 bytes</text>
+</svg>

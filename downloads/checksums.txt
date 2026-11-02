@@ -1,0 +1,14 @@
+# PS2 BIOS SHA-256 checksums (verify after dump or download)
+# Each main BIOS .bin must be exactly 4,194,304 bytes.
+
+SCPH-70012.bin (USA / NTSC-U)
+c7628a01da23d7d38851aec8403e535581d0f2a781fee5b86b1c648b13a9970d
+
+SCPH-70004.bin (Europe / PAL)
+8921e73006ac2c01922fcc7b76da6b9caed6b20fbd4e69f165635e18542de6ab
+
+SCPH-70000.bin (Japan / NTSC-J)
+c4dad3b5c6ad58bce70a47fc332602880f041c0338ac6be89061c928f6919ab1
+
+Pack archive: ps2-bios-all-regions.zip contains the three files above plus this checksums.txt.
+Only use BIOS files dumped from a PlayStation 2 console you own, or verify third-party copies against these hashes.

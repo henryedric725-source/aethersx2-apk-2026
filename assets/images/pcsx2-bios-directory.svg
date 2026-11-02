@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="PCSX2 BIOS directory setup illustration">
+  <rect width="960" height="540" fill="#1e293b" rx="8"/>
+  <rect x="24" y="24" width="912" height="48" fill="#334155" rx="6"/>
+  <text x="48" y="56" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="20" font-weight="600">PCSX2  First Time Setup · BIOS Directory</text>
+  <rect x="48" y="120" width="864" height="320" fill="#0f172a" stroke="#475569" rx="8"/>
+  <text x="72" y="160" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="14">Select BIOS directory containing .bin dumps (4 MB each)</text>
+  <rect x="72" y="190" width="400" height="36" fill="#1e3a8a" rx="4"/>
+  <text x="88" y="214" fill="#dbeafe" font-family="monospace" font-size="14">Documents/PCSX2/bios/</text>
+  <rect x="72" y="250" width="120" height="32" fill="#2563eb" rx="6"/>
+  <text x="98" y="272" fill="#fff" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Browse&</text>
+  <text x="72" y="320" fill="#e2e8f0" font-family="monospace" font-size="13">SCPH-70012.bin  ·  USA  ·  4,194,304 bytes</text>
+  <text x="72" y="348" fill="#e2e8f0" font-family="monospace" font-size="13">SCPH-70004.bin  ·  Europe  ·  4,194,304 bytes</text>
+  <text x="72" y="400" fill="#64748b" font-family="system-ui,sans-serif" font-size="12">Illustration  same file works in AetherSX2 on Android</text>
+</svg>

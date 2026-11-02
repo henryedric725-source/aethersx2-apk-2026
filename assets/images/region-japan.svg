@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="PS2 BIOS Japan NTSC-J">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#be123c"/><stop offset="100%" stop-color="#4c1d95"/></linearGradient></defs>
+  <rect width="640" height="240" fill="url(#g)"/>
+  <text x="32" y="72" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">PS2 BIOS Japan</text>
+  <text x="32" y="108" fill="#fecdd3" font-family="system-ui,sans-serif" font-size="18">NTSC-J · SCPH-70000</text>
+  <text x="32" y="180" fill="#fce7f3" font-family="system-ui,sans-serif" font-size="14">Japanese imports · SCPH-10000 legacy</text>
+</svg>
