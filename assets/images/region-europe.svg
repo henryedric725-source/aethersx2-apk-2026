@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="PS2 BIOS Europe PAL">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f766e"/><stop offset="100%" stop-color="#2563eb"/></linearGradient></defs>
+  <rect width="640" height="240" fill="url(#g)"/>
+  <text x="32" y="72" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">PS2 BIOS Europe</text>
+  <text x="32" y="108" fill="#ccfbf1" font-family="system-ui,sans-serif" font-size="18">PAL · SCPH-70004</text>
+  <text x="32" y="180" fill="#e0f2fe" font-family="system-ui,sans-serif" font-size="14">50 Hz · EU / AU libraries</text>
+</svg>
